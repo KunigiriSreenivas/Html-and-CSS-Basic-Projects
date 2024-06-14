@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.container {
+    border: 10px solid rgb(6, 115, 66);
+    margin: 100px 80px;
+    display: flex;
+    justify-content:space-around;
+    align-items:last baseline;
+    padding: 80px;
+    overflow: hidden;
+}
+section {
+    padding: 25px 25px;
+}
+
+
+.image_page img {
+    border-radius:250px ;
+    width: 450px;
+}
+.titile_page {
+    text-align: end;
+    font-size: 30px;
+}
+.heading {
+    font-size: 35px;
+h1 {
+    padding-bottom:25px ;
+}
+}
+p {
+    font-size: 21px;
+}
+.bio {
+    font-size: 35px;
+    padding-bottom: 25px;
+}
+
+ li {
+    font-size: 20px;
+    overflow: hidden;
+    text-align: start;
+
+}
